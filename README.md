@@ -1,6 +1,6 @@
 ## Employee Attrition Analysis
 
-###🧩 Project Overview
+### 🧩 Project Overview
 This BI project dives deep into understanding employee attrition patterns within an organization. The goal is to uncover key drivers behind employee turnover and provide actionable insights to improve retention strategies.
 
 ### 🏢 Business Demand
@@ -12,8 +12,8 @@ Organizations often face challenges in retaining skilled employees, leading to p
 
 -Help HR teams formulate targeted retention strategies.
 
-### Employee Attrition Analysis BI pbix
-- <a href = "https://github.com/RudraNSamal2000/Power-Bi/blob/main/Employee%20Attrition%20Analysis.pbix" > Employee Attrition Analysis On BI file </a>
+### Employee_Attrition_Analysis.pbix
+- <a href = "https://github.com/RudraNSamal2000/Power-Bi/blob/main/Employee%20Attrition%20Analysis.pbix" > Open BI </a>
 
 ### 📌 Key Metrics Analyzed
 Total Attrition Count: 237
@@ -84,7 +84,7 @@ Power BI Desktop – for dashboarding and visual analytics.
 
 Excel / CSV Dataset – (As source).
 
-- <a herf = "" > Source File</a>
+- <a herf = "https://github.com/RudraNSamal2000/Power-Bi/blob/main/HR_Analytics.csv" > Source File</a>
 
 DAX and Power Query – for data transformation.
 
