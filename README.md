@@ -83,8 +83,7 @@ The Power BI-driven Employee Attrition Analysis reveals insightful patterns tied
 Power BI Desktop – for dashboarding and visual analytics.
 
 Excel / CSV Dataset – (As source).
-
-- <a herf = "https://github.com/RudraNSamal2000/Power-Bi/blob/main/HR_Analytics.csv" > Click_for_source_file </a>
+- <a href = "https://github.com/RudraNSamal2000/Power-Bi/blob/main/HR_Analytics.csv" > Click_for_source_file </a>
 
 DAX and Power Query – for data transformation.
 
